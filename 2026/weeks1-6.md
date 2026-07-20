@@ -1,6 +1,6 @@
-## Week 6 Scoring Rankings: Where We Stand, and How We Got Here
+## Week 7 Scoring Rankings: Where We Stand, and How We Got Here
 
-I've been debating for a few weeks now when I should start doing Spoonwatch. It still feels too early. But in my vacillations, I've neglected to post scoring rankings for each week. Let me rectify that.
+I've been debating for a few weeks now when I should start doing Spoonwatch. But in my vacillations, I've neglected to post scoring rankings for each week. Let me rectify that.
 
 Scoring in the League this year has been extraordinarily weird. Teams saw that this is the last year of full Canadian rules and decided to emulate the American Football League of the 1960s, a "there's a guy down there *somewhere*"-type mentality. After week 1, the League saw three consecutive weeks where the average number of points scored in a game was over 60. For context, only one season in the post-American expansion era has seen more than three 60-plus game weeks in a *season*, and we already have 3 by Week 6. Scoring did dip in Weeks 5 and 6, but only down to 55 points a game, still extraordinarily high for this era where CFL football has largely moderated. Furthermore, unlike in the past, the three weeks with 60-plus points per game were not blowouts in the margin of victory; in fact, two of the three were also two of the three closest weeks so far. These were weeks of closely contested shootouts.
 
