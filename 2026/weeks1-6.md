@@ -4,7 +4,7 @@ I've been debating for a few weeks now when I should start doing Spoonwatch. It 
 
 Scoring in the League this year has been extraordinarily weird. Teams saw that this is the last year of full Canadian rules and decided to emulate the American Football League of the 1960s, a "there's a guy down there *somewhere*"-type mentality. After week 1, the League saw three consecutive weeks where the average number of points scored in a game was over 60. For context, only one season in the post-American expansion era has seen more than three 60-plus game weeks in a *season*, and we already have 3 by Week 6. Scoring did dip in Weeks 5 and 6, but only down to 55 points a game, still extraordinarily high for this era where CFL football has largely moderated. Furthermore, unlike in the past, the three weeks with 60-plus points per game were not blowouts in the margin of victory; in fact, two of the three were also two of the three closest weeks so far. These were weeks of closely contested shootouts.
 
-Margins of victory have also been all over the place. Three weeks had MoVs within a score, which is rare for the CFL as is, and the other three had MoVs in the double digits, with this most recent week being the worst so far (17.50). Week 1 saw the closest margin of victory (an average winning margin of 4.33) for a single week of regular season play since Week 10 of last season (2.00).
+Margins of victory have also been all over the place. Three weeks had MoVs within a score, which is rare for the CFL as is, and the other three had MoVs in the double digits, with this most recent week being the worst so far (17.50). Week 1 saw the closest margin of victory (an average winning margin of 4.33) for a single week of regular season play since Week 10 of last season (2.00), and then Week 7 topped it with an average MoV of 2.75 points.
 
 Even if I'm not doing Spoonwatch *quite* yet, there are very much winners and losers establishing themselves as such by now. The title of best offense has been bandied back and forth between a couple of teams, but Edmonton has, to the shock of pretty much everyone, not least of which their own fans, solidified themselves as the league's best defense after coming in 8th or 9th in points allowed every year since the pandemic. Of the six weekly titles, the Elks have taken five of them, including this week's.
 
@@ -23,6 +23,7 @@ On the other end of the spectrum, the worst offense in the league is being hotly
 | 4 | 6 | 2 | 7 | T-3 | 5 | 8 | T-3 | 1 | 9 |
 | 5 | 5 | 1 | 6 | 5 | 3 | 8 | 4 | 2 | 9 |
 | 6 | 5 | 1 | 6 | 7 | T-3 | T-8 | T-3 | 2 | T-8 |
+| 7 | 5 | 1 | 6 | 9 | 2 | 8 | 3 | 4 | 7 |
 
 
 ### Overall Week-by-Week Rankings Table by the Numbers
@@ -37,3 +38,4 @@ On the other end of the spectrum, the worst offense in the league is being hotly
 | 4 | 29.00 | 35.33 | 28.00 | 35.00 | 33.25 | 26.67 | 35.00 | 38.00 | 25.00 |
 | 5 | 30.75 | 41.00 | 27.00 | 29.50 | 33.25 | 25.50 | 33.00 | 37.50 | 22.25 |
 | 6 | 30.75 | 38.80 | 29.60 | 25.00 | 34.00 | 23.80 | 34.00 | 34.20 | 23.80 |
+| 7 | 28.00 | 37.67 | 27.83 | 24.83 | 34.67 | 25.50 | 34.00 | 32.33 | 25.83 |
