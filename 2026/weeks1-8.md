@@ -88,3 +88,16 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | -3.50 | 3.60 | 5.40 | -2.20 | 3.20 | -11.60 | 7.40 | -2.40 | -0.60 |
 | 7 | -3.20 | 3.00 | 4.83 | -1.67 | 3.67 | -10.00 | 7.40 | -2.17 | -0.17 |
 | 8 | - | 5.71 | 4.43 | - | - | -10.00 | 5.83 | - | -3.29 | -3.29 |
+
+
+## Spoonwatch
+
+### Favorites for the Spoon: Ottawa Redblacks (0-6)
+
+Man.
+
+*Man.*
+
+It's not like things have been sunshine and rainbows for this side in recent memory--it was just last year that I described them as 'if the wooden spoon was a franchise'--but this season has to have fans wondering if the Redblacks have been on the recieving end of a bad day from a particularly wrathful god. In 6 losses, they have lost by less than 10 points four times, and in the other two by no less than 20. They were on a bye week 8, and probably needed it after week 7 had that team wondering if they should wrap it up and call it a franchise, or at least institute a moratorium on ever playing Winnipeg again. Ottawa doesn't exactly put up stellar efforts against anyone in the league, but something about the Bombers just brings out every agonizing feeling their fans could ever feel in the span of two hours. That game very literally made me decide to bring Spoonwatch back earlier than anticipated, because how could I not talk about it in some way?
+
+I really don't know who on God's diminishingly green Earth thought Jake Maier was a net positive move from Dru Brown and Dustin Crum. He's barely a net lateral move at *QB2*, let alone the starting job. This team has pieces, but the completely wrong ones in the places they absolutely can't afford to have the wrong pieces in. As with every season this decade, we find ourselves asking if the people in charge of this team actually know how to run a sports franchise.
