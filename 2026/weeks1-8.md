@@ -48,7 +48,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 7 | 8 | 4 | 2 | 6 | 3 | 9 | 1 | 7 | 5 |
 | 8 |
 
-### Overall Week-by-Week Rankings Table by the Numbers
+### Overall Week-by-Week Table by the Numbers
 
 **Offense**
 
