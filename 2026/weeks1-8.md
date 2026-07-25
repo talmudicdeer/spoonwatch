@@ -1,14 +1,10 @@
-## Week 7 Scoring Rankings: Where We Stand, and How We Got Here
+## Week 8 Scoring Rankings: Where We Stand, and How We Got Here
 
 I've been debating for a few weeks now when I should start doing Spoonwatch. But in my vacillations, I've neglected to post scoring rankings for each week. Let me rectify that.
 
 Scoring in the League this year has been extraordinarily weird. After week 1, the League saw three consecutive weeks where the average number of points scored in a game was over 60. For context, only one season in the post-American expansion era has seen more than three 60-plus game weeks in a *season*, and we already have 3 by Week 6. Scoring did dip in Weeks 5 and 6, but only down to 55 points a game, still extraordinarily high for this era where CFL football has largely moderated. Furthermore, unlike in the past, the three weeks with 60-plus points per game were not blowouts in the margin of victory; in fact, two of the three were also two of the three closest weeks so far. These were weeks of closely contested shootouts.
 
 Margins of victory have also been all over the place. Three weeks had MoVs within a score, which is rare for the CFL as is, and the other three had MoVs in the double digits, with this most recent week being the worst so far (17.50). Week 1 saw the closest margin of victory (an average winning margin of 4.33) for a single week of regular season play since Week 10 of last season (2.00), and then Week 7 topped it with an average MoV of 2.75 points.
-
-There are very much winners and losers establishing themselves as such by now. The title of best offense has been bandied back and forth between a couple of teams, but Edmonton has, to the shock of pretty much everyone, not least of which their own fans, solidified themselves as the league's best defense after coming in 8th or 9th in points allowed every year since the pandemic. Of the six weekly titles, the Elks have taken five of them, including this week's.
-
-On the other end of the spectrum, the worst offense in the league is being hotly contested between Ottawa and Winnipeg, although I think it's fair to say one of these teams is trending at least neutral, and the other is plummeting into the Earth's core. On the other side of the ball, BC and Ottawa are duking it out for the league's worst defense. BC seems to have taken Hamilton's mantle of having an above average to quite good offense and a nonexistent defense. Only Toronto has scored and allowed more points per game than the Lions.
 
 
 ### Overall Week-by-Week Table by Position
@@ -24,30 +20,33 @@ On the other end of the spectrum, the worst offense in the league is being hotly
 | 5 | 5 | 1 | 6 | 5 | 3 | 8 | 4 | 2 | 9 |
 | 6 | 5 | 1 | 6 | 7 | T-3 | T-8 | T-3 | 2 | T-8 |
 | 7 | 5 | 1 | 6 | 9 | 2 | 8 | 3 | 4 | 7 |
+| 8 |
 
 **Defense**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
-| 1 |
-| 2 |
-| 3 |
-| 4 |
-| 5 |
-| 6 |
-| 7 |
+| 1 | - | T-5 | 1 | T-5 | 2 | 4 | - | - | 3 |
+| 2 | T-2 | 7 | 1 | T-4 | T-4 | 5 | T-2 | 9 | 8 |
+| 3 | 8 | 7 | 1 | 2 | 3 | 9 | 5 | 4 | 6 |
+| 4 | 9 | 6 | 1 | 2 | 4 | 8 | 7 | 5 | 3 |
+| 5 | 6 | 8 | 3 | 1 | 4 | 7 | 5 | 9 | 2 |
+| 6 | 6 | 7 | 1 | 4 | 5 | 8 | 3 | 9 | 2 |
+| 7 | 6 | 8 | 1 | 3 | 5 | 9 | 4 | 7 | 2 |
+| 8 |
 
 **Margin of Victory**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
-| 1 |
-| 2 |
-| 3 |
-| 4 |
-| 5 |
-| 6 |
-| 7 |
+| 1 | - | 4 | 1 | 5 | 2 | 6 | - | - | 3 |
+| 2 | T-6 | 5 | 1 | 4 | 2 | 9 | 3 | 8 | T-6 |
+| 3 | 8 | 6 | 3 | 1 | 5 | 9 | 4 | 2 | 7 |
+| 4 | 8 | 5 | 3 | 1 | 4 | 9 | 6 | 2 | 7 |
+| 5 | 8 | 1 | 5 | 2 | 3 | 9 | 4 | 6 | 7 |
+| 6 | 8 | 3 | 2 | 6 | 4 | 9 | 1 | 7 | 5 |
+| 7 | 8 | 4 | 2 | 6 | 3 | 9 | 1 | 7 | 5 |
+| 8 |
 
 ### Overall Week-by-Week Rankings Table by the Numbers
 
@@ -62,6 +61,7 @@ On the other end of the spectrum, the worst offense in the league is being hotly
 | 5 | 30.75 | 41.00 | 27.00 | 29.50 | 33.25 | 25.50 | 33.00 | 37.50 | 22.25 |
 | 6 | 30.75 | 38.80 | 29.60 | 25.00 | 34.00 | 23.80 | 34.00 | 34.20 | 23.80 |
 | 7 | 28.00 | 37.67 | 27.83 | 24.83 | 34.67 | 25.50 | 34.00 | 32.33 | 25.83 |
+| 8 | - | 39.71 | 29.00 | - | - | 25.50 | 34.00 | - | 26.43 |
 
 **Defense**
 
@@ -74,15 +74,17 @@ On the other end of the spectrum, the worst offense in the league is being hotly
 | 5 | 34.25 | 34.75 | 26.00 | 24.50 | 31.00 | 34.25 | 31.50 | 38.25 | 25.25 |
 | 6 | 34.25 | 35.20 | 24.20 | 27.20 | 30.80 | 35.40 | 26.60 | 36.60 | 24.40 |
 | 7 | 31.20 | 34.67 | 23.00 | 26.50 | 31.00 | 35.50 | 26.60 | 34.50 | 26.00 |
+| 8 | - | 34.00 | 24.57 | - | - | 35.50 | 28.17 | - | 29.71 |
 
 **Margin of Victory**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
-| 1 | - | 
-| 2 | -4.00 |
-| 3 | -9.00 |
-| 4 | -8.67 |
-| 5 | -3.50 |
-| 6 | -3.50 |
-| 7 | -3.20 |
+| 1 | - | -2.00 | 8.00 | -3.00 | 3.00 | -8.00 | - | - | 2.00 |
+| 2 | -4.00 | -2.00 | 8.00 | 3.50 | 5.00 | -8.00 | 4.00 | -7.00 | -4.00 |
+| 3 | -9.00 | -2.50 | 5.50 | 7.00 | 2.33 | -14.00 | 3.50 | 6.50 | -4.00 |
+| 4 | -8.67 | 1.00 | 5.33 | 7.00 | 2.25 | -10.00 | 0.33 | 6.33 | -4.33 |
+| 5 | -3.50 | 6.25 | 1.00 | 5.00 | 2.25 | -8.75 | 1.50 | -0.75 | -3.00 |
+| 6 | -3.50 | 3.60 | 5.40 | -2.20 | 3.20 | -11.60 | 7.40 | -2.40 | -0.60 |
+| 7 | -3.20 | 3.00 | 4.83 | -1.67 | 3.67 | -10.00 | 7.40 | -2.17 | -0.17 |
+| 8 | - | 5.71 | 4.43 | - | - | -10.00 | 5.83 | - | -3.29 | -3.29 |
