@@ -21,6 +21,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | 5 | 1 | 6 | 7 | T-3 | T-8 | T-3 | 2 | T-8 |
 | 7 | 5 | 1 | 6 | 9 | 2 | 8 | 3 | 4 | 7 |
 | 8 | 8 | 1 | 5 | 9 | 2 | 7 | 3 | 4 | 6 |
+| 9 | 6 | 1 | 5 | 9 | 2 | 8 | 3 | 4 | 7 |
 
 **Defense**
 
@@ -34,6 +35,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | 6 | 7 | 1 | 4 | 5 | 8 | 3 | 9 | 2 |
 | 7 | 6 | 8 | 1 | 3 | 5 | 9 | 4 | 7 | 2 |
 | 8 | 6 | 8 | 1 | 2 | 4 | 9 | 3 | 7 | 5 |
+| 9 | 4 | 8 | 1 | 5 | 2 | 9 | 3 | 7 | 6 |
 
 **Margin of Victory**
 
@@ -47,6 +49,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | 8 | 3 | 2 | 6 | 4 | 9 | 1 | 7 | 5 |
 | 7 | 8 | 4 | 2 | 6 | 3 | 9 | 1 | 7 | 5 |
 | 8 | 8 | 2 | 4 | T-6 | 3 | 9 | 1 | 5 | T-6 |
+| 9 | 6 | 1 | 4 | 8 | 2 | 9 | 3 | 5 | 7 |
 
 ### Overall Week-by-Week Table by the Numbers
 
@@ -62,6 +65,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | 30.75 | 38.80 | 29.60 | 25.00 | 34.00 | 23.80 | 34.00 | 34.20 | 23.80 |
 | 7 | 28.00 | 37.67 | 27.83 | 24.83 | 34.67 | 25.50 | 34.00 | 32.33 | 25.83 |
 | 8 | 25.33 | 39.71 | 29.00 | 23.86 | 34.14 | 25.50 | 34.00 | 31.43 | 26.43 |
+| 9 | 26.71 | 40.25 | 28.88 | 23.38 | 34.13 | 23.71 | 33.14 | 31.43 | 25.50 |
 
 **Defense**
 
@@ -75,6 +79,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | 34.25 | 35.20 | 24.20 | 27.20 | 30.80 | 35.40 | 26.60 | 36.60 | 24.40 |
 | 7 | 31.20 | 34.67 | 23.00 | 26.50 | 31.00 | 35.50 | 26.60 | 34.50 | 26.00 |
 | 8 | 30.33 | 34.00 | 24.57 | 27.14 | 29.14 | 35.50 | 28.17 | 31.29 | 29.71 |
+| 9 | 28.71 | 32.25 | 25.00 | 29.25 | 27.13 | 35.29 | 27.86 | 31.29 | 30.38 |
 
 **Margin of Victory**
 
@@ -88,6 +93,7 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 | 6 | -3.50 | 3.60 | 5.40 | -2.20 | 3.20 | -11.60 | 7.40 | -2.40 | -0.60 |
 | 7 | -3.20 | 3.00 | 4.83 | -1.67 | 3.67 | -10.00 | 7.40 | -2.17 | -0.17 |
 | 8 | -5.00 | 5.71 | 4.43 | -3.29 | 5.00 | -10.00 | 5.83 | 0.14 | -3.29 |
+| 9 | -2.00 | 8.00 | 3.88 | -5.88 | 7.00 | -11.57 | 5.29 | 0.14 | -4.88 |
 
 
 ## Spoonwatch
