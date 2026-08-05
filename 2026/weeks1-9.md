@@ -1,10 +1,6 @@
-## Week 8 Scoring Rankings: Where We Stand, and How We Got Here
+## Week 9 Scoring Rankings: Where We Stand, and How We Got Here
 
-I've been debating for a few weeks now when I should start doing Spoonwatch. But in my vacillations, I've neglected to post scoring rankings for each week. Let me rectify that.
-
-Scoring in the League this year has been extraordinarily weird. After week 1, the League saw three consecutive weeks where the average number of points scored in a game was over 60. For context, only one season in the post-American expansion era has seen more than three 60-plus game weeks in a *season*, and we already have 3 by Week 6. Scoring did dip in Weeks 5 and 6, but only down to 55 points a game, still extraordinarily high for this era where CFL football has largely moderated. Furthermore, unlike in the past, the three weeks with 60-plus points per game were not blowouts in the margin of victory; in fact, two of the three were also two of the three closest weeks so far. These were weeks of closely contested shootouts.
-
-Margins of victory have also been all over the place. Three weeks had MoVs within a score, which is rare for the CFL as is, and the other three had MoVs in the double digits, with this most recent week being the worst so far (17.50). Week 1 saw the closest margin of victory (an average winning margin of 4.33) for a single week of regular season play since Week 10 of last season (2.00), and then Week 7 topped it with an average MoV of 2.75 points.
+I realize that, in my vacillations over when to start Spoonwatch, I have been derelict in my duties to post scoring rankings. Let me rectify that.
 
 
 ### Overall Week-by-Week Table by Position
@@ -98,12 +94,21 @@ Margins of victory have also been all over the place. Three weeks had MoVs withi
 
 ## Spoonwatch
 
-### Favorites for the Spoon: Ottawa Redblacks (0-6)
+### Favorites for the Spoon: Ottawa Redblacks (0-7)
 
 Man.
 
 *Man.*
 
-It's not like things have been sunshine and rainbows for this side in recent memory--it was just last year that I described them as 'if the wooden spoon was a franchise'--but this season has to have fans wondering if the Redblacks have been on the recieving end of a bad day from a particularly wrathful god. In 6 losses, they have lost by less than 10 points four times, and in the other two by no less than 20. They were on a bye week 8, and probably needed it after week 7 had that team wondering if they should wrap it up and call it a franchise, or at least institute a moratorium on ever playing Winnipeg again. Ottawa doesn't exactly put up stellar efforts against anyone in the league, but something about the Bombers just brings out every agonizing feeling their fans could ever feel in the span of two hours. That game very literally made me decide to bring Spoonwatch back earlier than anticipated, because how could I not talk about it in some way?
+It's not like things have been sunshine and rainbows for this side in recent memory--it was just last year that I described them as 'if the wooden spoon was a franchise'--but this season has to have fans wondering if the Redblacks have been on the recieving end of a bad day from a particularly wrathful god. In 7 losses, they have lost by less than 10 points four times, and in the other three by no less than 20. They were on a bye week 8, and probably needed it after week 7 had that team wondering if they should wrap it up and call it a franchise, or at least institute a moratorium on ever playing Winnipeg again. Ottawa doesn't exactly put up stellar efforts against anyone in the league, but something about the Bombers just brings out every agonizing feeling their fans could ever feel in the span of two hours. That game very literally made me decide to bring Spoonwatch back earlier than anticipated, because how could I not talk about it in some way? Week 9 was completely unremarkable. Blowout loss to a pretty good Montreal team is basically meeting expectations at this point.
 
 I really don't know who on God's diminishingly green Earth thought Jake Maier was a net positive move from Dru Brown and Dustin Crum. He's barely a net lateral move at *QB2*, let alone the starting job. This team has pieces, but the completely wrong ones in the places they absolutely can't afford to have the wrong pieces in. As with every season this decade, we find ourselves asking if the people in charge of this team actually know how to run a sports franchise.
+
+Very, *very* slight note of positivity: Ottawa's offense is too good for this team to reach a 17 or 18 loss season, at least at this point. For that to be a possibility, they'd need to be averaging somewhere around 10-11 points scored per game less than they are right now. Their lowest mark in that category this season so far was 21 PSpG after their first game of the year. Truly historically bad sides in the CFL usually average somewhere between 13-15 PSpG.
+
+
+### Contenders for the Spoon: BC Lions (2-5), Hamilton Tiger-Cats (3-5)
+
+I actually think one of these teams is in a far worse position than the other, and it's not in the order that I listed them in.
+
+
