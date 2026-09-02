@@ -5,7 +5,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 
 ### Overall Week-by-Week Table by Position
 
-**Offense**
+**Points Scored per Game**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
@@ -20,8 +20,9 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 9 | 6 | 1 | 5 | 9 | 2 | 8 | 3 | 4 | 7 |
 | 10 | 6 | 1 | 5 | 8 | 2 | 9 | 3 | 4 | 7 |
 | 11 | 6 | 1 | 4 | 8 | 2 | 9 | 3 | 5 | 7 |
+| 12 | 6 | 1 | 5 | 8 | 2 | 9 | 3 | 4 | 7 |
 
-**Defense**
+**Points Allowed per Game**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
@@ -36,6 +37,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 9 | 4 | 8 | 1 | 5 | 2 | 9 | 3 | 7 | 6 |
 | 10 | 4 | 8 | 3 | 5 | 2 | 9 | 1 | 7 | 6 |
 | 11 | 4 | 7 | 1 | 5 | 3 | 9 | 2 | 8 | 6 |
+| 12 | 3 | 8 | 1 | 6 | 2 | 9 | 4 | 7 | 5 |
 
 **Margin of Victory**
 
@@ -52,6 +54,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 9 | 6 | 1 | 4 | 8 | 2 | 9 | 3 | 5 | 7 |
 | 10 | 6 | 3 | 4 | 8 | 1 | 9 | 2 | 5 | 7 |
 | 11 | 5 | 3 | 4 | 8 | 1 | 9 | 2 | 6 | 7 |
+| 12 | 5 | 2 | 3 | 8 | 1 | 9 | 4 | 6 | 7 |
 
 **Pythagorean Expectation**
 
@@ -59,10 +62,11 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
 | 10 | 3 | 1 | 8 | 5 | 9 | 2 | 6 | 4 | 7 |
 | 11 | T-4 | 1 | 7 | 6 | 9 | 2 | 3 | T-4 | 8 |
+| 12 | 3 | 1 | 8 | 6 | 9 | 2 | 4 | 5 | 7 |
 
 ### Overall Week-by-Week Table by the Numbers
 
-**Offense**
+**Points Scored per Game**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
@@ -76,9 +80,10 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 8 | 25.33 | 39.71 | 29.00 | 23.86 | 34.14 | 25.50 | 34.00 | 31.43 | 26.43 |
 | 9 | 26.71 | 40.25 | 28.88 | 23.38 | 34.13 | 23.71 | 33.14 | 31.43 | 25.50 |
 | 10 | 26.75 | 39.11 | 29.00 | 23.44 | 35.67 | 23.25 | 34.25 | 31.63 | 25.50 |
-| 11 | 27.11 | 27.80 | 30.30 | 23.70 | 35.67 | 23.00 | 32.56 | 29.44 | 26.33 |
+| 11 | 27.11 | 37.80 | 30.30 | 23.70 | 35.67 | 23.00 | 32.56 | 29.44 | 26.33 |
+| 12 | 27.40 | 37.80 | 29.55 | 23.36 | 36.70 | 22.30 | 30.90 | 30.40 | 25.60 |
 
-**Defense**
+**Points Allowed per Game**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
@@ -93,6 +98,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 9 | 28.71 | 32.25 | 25.00 | 29.25 | 27.13 | 35.29 | 27.86 | 31.29 | 30.38 |
 | 10 | 28.13 | 32.33 | 27.56 | 29.00 | 27.44 | 37.38 | 26.88 | 31.13 | 30.38 |
 | 11 | 27.89 | 32.10 | 26.00 | 28.00 | 27.44 | 36.89 | 26.78 | 32.33 | 29.33 |
+| 12 | 26.70 | 32.10 | 25.36 | 29.00 | 26.30 | 37.80 | 27.10 | 31.00 | 28.60 |
 
 **Margin of Victory**
 
@@ -109,6 +115,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 9 | -2.00 | 8.00 | 3.88 | -5.88 | 7.00 | -11.57 | 5.29 | 0.14 | -4.88 |
 | 10 | -1.38 | 6.78 | 1.44 | -5.56 | 8.22 | -14.13 | 7.38 | 0.50 | -4.88 |
 | 11 | -0.78 | 5.70 | 4.30 | -4.30 | 8.22 | -13.89 | 5.78 | -2.89 | -3.00 |
+| 12 | 0.70 | 5.70 | 4.18 | -5.64 | 10.40 | -15.50 | 3.80 | -0.60 | -3.00 |
 
 **Pythagorean Wins and Expectation**
 
@@ -116,6 +123,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
 | 10 | 3.68 (-0.68) | 5.91 (-1.91) | 4.87 (+1.13) | 3.06 (-0.06) | 6.33 (+1.67) | 1.45 (-1.45) | 5.50 (+0.50) | 4.10 (-0.10) | 2.92 (+1.08) |
 | 11 | 3.82 (+0.18) | 6.35 (-2.35) | 6.19 (+0.81) | 3.73 (+0.27) | 6.33 (+1.67) | 1.60 (-1.60) | 5.87 (+0.13) | 3.82 (+0.18) | 3.74 (+1.26) |
+| 12 | 5.20 (-0.20) | 6.35 (-2.35) | 6.80 (+1.20) | 3.72 (+0.28) | 7.49 (+1.51) | 1.53 (-1.53) | 6.04 (-0.04) | 4.84 (+0.16) | 4.14 (+0.86) |
 
 
 ## Spoonwatch
