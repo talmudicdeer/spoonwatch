@@ -1,7 +1,12 @@
-## Week 9 Scoring Rankings: Where We Stand, and How We Got Here
+## Week 14 Rankings and Spoonwatch
 
-I realize that, in my vacillations over when to start Spoonwatch, I have been derelict in my duties to post scoring rankings. Let me rectify that.
+I can explain.
 
+It's called "I ended up having an extremely stressful end to the university year, had no break as I went straight into a summer-long neurobiology course, and have been plagued by extreme depression when I wasn't buried in work". Do not recommend. To give you an idea of how long I've been working on this, this page started with **Week 6.**
+
+I am currently on vacation in the Great White North visiting my girlfriend. It's a deep relief, having time to relax and not worry about whether the food I'm eating is going to actually, literally kill me or if what meager benefits I get from the state have been cut again to pay for a new golf course. Of course, this also means I can finally focus on Canadian football.
+
+We have... a *lot* to cover.
 
 ### Overall Week-by-Week Table by Position
 
@@ -21,6 +26,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | 6 | 1 | 5 | 8 | 2 | 9 | 3 | 4 | 7 |
 | 11 | 6 | 1 | 4 | 8 | 2 | 9 | 3 | 5 | 7 |
 | 12 | 6 | 1 | 5 | 8 | 2 | 9 | 3 | 4 | 7 |
+| 13 | 6 | 1 | 5 | 8 | 2 | 9 | 3 | 4 | 7 |
 
 **Points Allowed per Game**
 
@@ -38,6 +44,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | 4 | 8 | 3 | 5 | 2 | 9 | 1 | 7 | 6 |
 | 11 | 4 | 7 | 1 | 5 | 3 | 9 | 2 | 8 | 6 |
 | 12 | 3 | 8 | 1 | 6 | 2 | 9 | 4 | 7 | 5 |
+| 13 | 2 | 8 | 1 | 6 | 4 | 9 | 3 | 7 | 5 |
 
 **Margin of Victory**
 
@@ -55,14 +62,16 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | 6 | 3 | 4 | 8 | 1 | 9 | 2 | 5 | 7 |
 | 11 | 5 | 3 | 4 | 8 | 1 | 9 | 2 | 6 | 7 |
 | 12 | 5 | 2 | 3 | 8 | 1 | 9 | 4 | 6 | 7 |
+| 13 | 5 | 2 | 3 | 8 | 1 | 9 | 4 | 6 | 7 |
 
-**Pythagorean Expectation**
+**Pythagorean Wins**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
 | 10 | 3 | 1 | 8 | 5 | 9 | 2 | 6 | 4 | 7 |
 | 11 | T-4 | 1 | 7 | 6 | 9 | 2 | 3 | T-4 | 8 |
 | 12 | 3 | 1 | 8 | 6 | 9 | 2 | 4 | 5 | 7 |
+| 13 | 3 | 1 | 8 | 5 | 9 | 2 | 6 | 4 | 7 |
 
 ### Overall Week-by-Week Table by the Numbers
 
@@ -82,6 +91,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | 26.75 | 39.11 | 29.00 | 23.44 | 35.67 | 23.25 | 34.25 | 31.63 | 25.50 |
 | 11 | 27.11 | 37.80 | 30.30 | 23.70 | 35.67 | 23.00 | 32.56 | 29.44 | 26.33 |
 | 12 | 27.40 | 37.80 | 29.55 | 23.36 | 36.70 | 22.30 | 30.90 | 30.40 | 25.60 |
+| 13 | 29.00 | 36.91 | 29.55 | 23.33 | 35.91 | 22.45 | 30.64 | 29.82 | 27.27 | 
 
 **Points Allowed per Game**
 
@@ -99,6 +109,7 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | 28.13 | 32.33 | 27.56 | 29.00 | 27.44 | 37.38 | 26.88 | 31.13 | 30.38 |
 | 11 | 27.89 | 32.10 | 26.00 | 28.00 | 27.44 | 36.89 | 26.78 | 32.33 | 29.33 |
 | 12 | 26.70 | 32.10 | 25.36 | 29.00 | 26.30 | 37.80 | 27.10 | 31.00 | 28.60 |
+| 13 | 26.45 | 31.27 | 25.36 | 28.92 | 27.91 | 38.45 | 26.82 | 30.73 | 28.55 |
 
 **Margin of Victory**
 
@@ -116,33 +127,28 @@ I realize that, in my vacillations over when to start Spoonwatch, I have been de
 | 10 | -1.38 | 6.78 | 1.44 | -5.56 | 8.22 | -14.13 | 7.38 | 0.50 | -4.88 |
 | 11 | -0.78 | 5.70 | 4.30 | -4.30 | 8.22 | -13.89 | 5.78 | -2.89 | -3.00 |
 | 12 | 0.70 | 5.70 | 4.18 | -5.64 | 10.40 | -15.50 | 3.80 | -0.60 | -3.00 |
+| 13 | 2.55 | 5.64 | 4.18 | -5.58 | 8.00 | -16.00 | 3.82 | -0.91 | -1.27 |
 
-**Pythagorean Wins and Expectation**
+**Pythagorean Wins**
 
 | Week | B.C. | Calgary | Edmonton | Hamilton | Montreal | Ottawa | Saskatchewan | Toronto | Winnipeg |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :----: | :----------: | :-----: | :------: |
 | 10 | 3.68 (-0.68) | 5.91 (-1.91) | 4.87 (+1.13) | 3.06 (-0.06) | 6.33 (+1.67) | 1.45 (-1.45) | 5.50 (+0.50) | 4.10 (-0.10) | 2.92 (+1.08) |
 | 11 | 3.82 (+0.18) | 6.35 (-2.35) | 6.19 (+0.81) | 3.73 (+0.27) | 6.33 (+1.67) | 1.60 (-1.60) | 5.87 (+0.13) | 3.82 (+0.18) | 3.74 (+1.26) |
 | 12 | 5.20 (-0.20) | 6.35 (-2.35) | 6.80 (+1.20) | 3.72 (+0.28) | 7.49 (+1.51) | 1.53 (-1.53) | 6.04 (-0.04) | 4.84 (+0.16) | 4.14 (+0.86) |
+| 13 | 6.29 (-0.29) | 6.99 (-1.99) | 6.80 (+1.20) | 4.07 (-0.07) | 7.66 (+1.34) | 1.63 (-1.63) | 6.65 (+0.35) | 5.23 (-0.23) | 5.10 (+0.90) |
 
 
 ## Spoonwatch
 
-### Favorites for the Spoon: Ottawa Redblacks (0-7)
+### Winners of the Wooden Spoon: Ottawa Redblacks (0-11)
 
-Man.
-
-*Man.*
-
-It's not like things have been sunshine and rainbows for this side in recent memory--it was just last year that I described them as 'if the wooden spoon was a franchise'--but this season has to have fans wondering if the Redblacks have been on the recieving end of a bad day from a particularly wrathful god. In 7 losses, they have lost by less than 10 points four times, and in the other three by no less than 20. They were on a bye week 8, and probably needed it after week 7 had that team wondering if they should wrap it up and call it a franchise, or at least institute a moratorium on ever playing Winnipeg again. Ottawa doesn't exactly put up stellar efforts against anyone in the league, but something about the Bombers just brings out every agonizing feeling their fans could ever feel in the span of two hours. That game very literally made me decide to bring Spoonwatch back earlier than anticipated, because how could I not talk about it in some way? Week 9 was completely unremarkable. Blowout loss to a pretty good Montreal team is basically meeting expectations at this point.
+They're not *mathematically* guaranteed to win, but I'm pretty comfortable calling time of death. Hamilton is the only other team that can feasibly overtake them, and as poor as the Ticats' offense has been (more on them later), they would need to lose to this defense twice. Probably not happening. It's not like things have been sunshine and rainbows for this side in recent memory--it was just last year that I described them as 'if the wooden spoon was a franchise'--but this season has to have fans wondering if the Redblacks have been on the receiving end of a bad week from a particularly wrathful god.
 
 I really don't know who on God's diminishingly green Earth thought Jake Maier was a net positive move from Dru Brown and Dustin Crum. He's barely a net lateral move at *QB2*, let alone the starting job. This team has pieces, but the completely wrong ones in the places they absolutely can't afford to have the wrong pieces in. As with every season this decade, we find ourselves asking if the people in charge of this team actually know how to run a sports franchise.
 
-Very, *very* slight note of positivity: Ottawa's offense is too good for this team to reach a 17 or 18 loss season, at least at this point. For that to be a possibility, they'd need to be averaging somewhere around 10-11 points scored per game less than they are right now. Their lowest mark in that category this season so far was 21 PSpG after their first game of the year. Truly historically bad sides in the CFL usually average somewhere between 13-15 PSpG.
+The question I think a lot of people are asking is if this team could be the one to grant the 2003 Ticats a sense of release unto death. Pythagoras says yes; their current win expectation per Pythagoras is 1.63, which is a whole 0.34 games less than what the '03 Ticats finished with. The reason for this is simple: Ottawa's offense is averaging, presently, somewhere around a touchdown more per game than the '03 Ticats (22.45 for Ottawa vs 16.28 for Hamilton), but Ottawa's defense is averaging some of the most eye-watering numbers we've seen in the league in a very, very long time. Not even the '03 Ticats or '94 Pirates comes close; for that we have to look to the '95 Rough Riders, who went 3-15 (but who, curiously, Pythagoras also gave a final win expectation lower than the '03 Ticats, at 1.85 wins). If these trends hold or worsen, the 2026 Redblacks would finish with the fewest Pythagorean wins since the mid-90s, eclipsing the '94 Pirates (the current record-holders) by a whole 0.17 wins, which in the scale this metric deals in is a wide margin.
 
+### Everyone Else, from Bad to Good
 
-### Contenders for the Spoon: BC Lions (2-5), Hamilton Tiger-Cats (3-5)
-
-I actually think one of these teams is in a far worse position than the other, and it's not in the order that I listed them in.
-
-
+**Hamilton Tiger-Cats (4-8):** I don't know if I've seen hard evidence of how important one person was to a team quite like the chart of Hamilton's offensive production after Bo Levi Mitchell got hurt. 
