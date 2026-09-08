@@ -49,7 +49,7 @@ Now that I *don't* have to recap two-thirds of the season in one writeup, I can 
 **Pythagorean Wins**
 
 | Ranking | Rank +/- | Team | Pythag. Wins | Pythag. Wins +/- | Pythag. Difference |
-| :-----: | :------: | :--: | :--: | :------: |
+| :-----: | :------: | :--: | :----------: | :--------------: | :----------------: |
 | 1 | - | Alouettes | 8.33 | +0.67 | +1.67 |
 | 2 | +1 | Elks | 7.56 | +0.76 | +1.44 |
 | 3 | +1 | Roughriders | 7.32 | +0.67 | +0.68 |
