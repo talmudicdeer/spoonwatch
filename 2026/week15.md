@@ -2,7 +2,9 @@
 
 Now that I *don't* have to recap two-thirds of the season in one writeup, I can actually use the proper ranking table I intended to use this whole time!
 
-### Tables, Tables, Tables!
+For the third week in a row, there was no movement in the PS/G table. With some of the margins as close as they are, this was a bit surprising to see. There are, broadly, three clumps (Stamps/Als at the top, Riders/Argos/Elks/Lions filling out the midtable, and Ticats/Redblacks at the bottom) and one in-between who doesn't fit neatly into any clump (Bombers).
+
+
 
 **Points Scored per Game**
 
