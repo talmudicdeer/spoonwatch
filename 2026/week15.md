@@ -50,12 +50,12 @@ Now that I *don't* have to recap two-thirds of the season in one writeup, I can 
 
 | Ranking | Rank +/- | Team | Pythag. Wins | Pythag. Wins +/- | Pythag. Difference |
 | :-----: | :------: | :--: | :--: | :------: |
-| 1 |  | Alouettes | 8.33 | +0.67 | +1.67 |
-| 2 |  | Elks | 7.56 | +0.76 | +1.44 |
-| 3 |  | Roughriders | 7.32 | +0.67 | +0.68 |
-| 4 |  | Stampeders | 7.27 | +0.28 | -2.27 |
-| 5 |  | Lions | 6.59 | +0.30 | -0.59 |
-| 6 |  | Argonauts | 6.12 | +0.89 | -0.13 |
-| 7 |  | Blue Bombers | 5.43 | +0.33 | +0.57 |
-| 8 |  | Tiger-Cats | 4.17 | +0.10 | -0.17 |
-| 9 |  | Redblacks | 1.63 | BYE | -1.63 |
+| 1 | - | Alouettes | 8.33 | +0.67 | +1.67 |
+| 2 | +1 | Elks | 7.56 | +0.76 | +1.44 |
+| 3 | +1 | Roughriders | 7.32 | +0.67 | +0.68 |
+| 4 | -2 | Stampeders | 7.27 | +0.28 | -2.27 |
+| 5 | - | Lions | 6.59 | +0.30 | -0.59 |
+| 6 | - | Argonauts | 6.12 | +0.89 | -0.13 |
+| 7 | - | Blue Bombers | 5.43 | +0.33 | +0.57 |
+| 8 | - | Tiger-Cats | 4.17 | +0.10 | -0.17 |
+| 9 | - | Redblacks | 1.63 | BYE | -1.63 |
